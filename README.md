@@ -6,17 +6,17 @@ in JMeter
 
 
 all-student
-![img.png](img.png)
+![img.png](images/img.png)
 
 
 
 all-student-name
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 
 
 highest-gpa
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 
 
@@ -24,33 +24,33 @@ highest-gpa
 JMeter from command line
 
 all-student
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 
 
 
 all-student-name
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 
 
 highest-gpa
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 
 
 After Optimization
 
 all-student
-![img10.png](img10.png)
+![img10.png](images/img10.png)
 
 
 all-student-name
-![img_11.png](img_11.png)
+![img_11.png](images/img_11.png)
 
 
 highest-gpa
-![img_12.png](img_12.png)
+![img_12.png](images/img_12.png)
 
 Conclusion: setelah melakukan performance optimization, processing time dari masing-masing method menjadi lebih cepat saat 
 dijalankan. Terlihat pada gambar JMeter test di atas, performance testing yang dilakukan menunjukkan peningkatan performa 

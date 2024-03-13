@@ -6,17 +6,17 @@ in JMeter
 
 
 all-student
-![img.png](Images/img.png)
+![img.png](images/img.png)
 
 
 
 all-student-name
-![img_1.png](Images/img_1.png)
+![img_1.png](images/img_1.png)
 
 
 
 highest-gpa
-![img_2.png](Images/img_2.png)
+![img_2.png](images/img_2.png)
 
 
 
@@ -24,18 +24,18 @@ highest-gpa
 JMeter from command line
 
 all-student
-![img_3.png](Images/img_3.png)
+![img_3.png](images/img_3.png)
 
 
 
 
 all-student-name
-![img_4.png](Images/img_4.png)
+![img_4.png](images/img_4.png)
 
 
 
 highest-gpa
-![img_5.png](Images/img_5.png)
+![img_5.png](images/img_5.png)
 
 
 
